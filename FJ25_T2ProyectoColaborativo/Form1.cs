@@ -21,5 +21,10 @@ namespace FJ25_T2ProyectoColaborativo
         {
             MessageBox.Show("Hello World");
         }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("YA LLEGRON LAS PIPSHAS", "MARIELUQUI", MessageBoxButtons.OK, MessageBoxIcon.Error);
+        }
     }
 }
